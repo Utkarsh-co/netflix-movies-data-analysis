@@ -4,9 +4,8 @@
 This repository contains an end-to-end data analytics project exploring over 9,600+ Netflix movie records from the years 2000 to 2024. The project demonstrates a full data pipeline workflow: from raw data exploration and aggregation in Microsoft Excel to building a dynamic, interactive business intelligence dashboard in Power BI.
 
 ## 📊 Interactive Dashboard Preview
-![Dashboard Overview](screenshots/Screenshot%202026-06-02%20001222.png)
+![Dashboard Overview](schreenshot/Screenshot%202026-06-02%20001222.png)
 
-*(Note: If your screenshot has a different name, like "dashboard.png", just change the "dashboard_view.png" text above to match your exact file name so the image loads perfectly!)*
 
 ## 🛠️ Tech Stack & Tools Used
 * **Microsoft Excel:** Pivot Tables, Data Aggregation, and Exploratory Data Analysis (EDA).
